@@ -23,6 +23,6 @@
     </ul>
     <h3>What Data Will Be Retained?</h3>
     <p>Some data, such as transaction records, may be retained for legal or regulatory purposes. These records will be stored securely and only for the necessary retention period as required by law.</p>
-    <p>If you have any further questions or concerns regarding the deletion of your data, feel free to reach out to us at <a href="mailto:support@greencloud.rs">support@greencloud.rs</a>.</p>
+    <p>If you have any further questions or concerns regarding the deletion of your data, feel free to reach out to us at <a href="mailto:katastar.greencloud@gmail.com">katastar.greencloud@gmail.com</a>.</p>
 </body>
 </html>
